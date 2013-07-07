@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4651
+
+This plugin brings friendly, syntax-highlighted Vim tips to your messages area. At 78 characters these have enough substance to inspire but not enough to distract. Try it out:
+
+:CottidieTip
+
+The location of the tips file is configurable, so this plugin may also serve you as a "daily tip" engine which draws from your own notes. (Not actually daily though, it doesn't include any timing mechanism.)
+
+The target audience is intermediate level. Contributions are welcome!
+
